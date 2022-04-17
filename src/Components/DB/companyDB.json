@@ -1,0 +1,177 @@
+{
+    "AAPL" : {
+        "name": "AAPL",
+        "nResult": "Overvalued",
+        "nValue": -0.7369309549164704,
+        "sResult": "Undervalued",
+        "sValue": 278.08546648141106
+    },
+    "MSFT" : {
+        "name": "MSFT",
+        "nResult": "Overvalued",
+        "nValue": -8.147045987056948,
+        "sResult": "Undervalued",
+        "sValue": 443.1026892901998
+    },
+    "NVDA": {
+        "name": "NVDA",
+        "nResult": "Overvalued",
+        "nValue": -0.43114350861514117,
+        "sResult": "Overvalued",
+        "sValue": 160.7542159420348
+    },
+    "TSM" : {
+        "name": "TSM",
+        "nResult": "Overvalued",
+        "nValue": -37.75809296302567,
+        "sResult": "Undervalued",
+        "sValue": 198.03054371517186
+    },
+    "ASML" : {
+        "name": "ASML",
+        "nResult": "Overvalued",
+        "nValue": -13.076731283116631,
+        "sResult": "Undervalued",
+        "sValue": 744.3866969878437
+    },
+    "AVGO" : {
+        "name": "AVGO",
+        "nResult": "Overvalued",
+        "nValue": 150.09362798671307,
+        "sResult": "Undervalued",
+        "sValue": 743.5440518284603
+    },
+    "CSCO" : {
+        "name": "CSCO",
+        "nResult": "Overvalued",
+        "nValue": -153.6637699359382,
+        "sResult": "Undervalued",
+        "sValue": 133.34222282735973
+    },
+    "ORCL" : {
+        "name": "ORCL",
+        "nResult": "Overvalued",
+        "nValue": 12.593643532883132,
+        "sResult": "Undervalued",
+        "sValue": 175.62510072689247
+    },
+    "ACN" : {
+        "name": "ACN",
+        "nResult": "Overvalued",
+        "nValue": -56.31537150997395,
+        "sResult": "Undervalued",
+        "sValue": 476.5125334590873
+    },
+    "ADBE" : {
+        "name": "ADBE",
+        "nResult": "Overvalued",
+        "nValue": -0.0,
+        "sResult": "Undervalued",
+        "sValue": 496.68739010983757
+    },
+    "CRM" : {
+        "name": "CRM",
+        "nResult": "Overvalued",
+        "nValue": 0.0,
+        "sResult": "Overvalued",
+        "sValue": 90.1175315820026
+    },
+    "INTC" : {
+        "name": "INTC",
+        "nResult": "Overvalued",
+        "nValue": -18.310665245817365,
+        "sResult": "Undervalued",
+        "sValue": 255.67999844593638
+    },
+    "TXN" : {
+        "name": "TXN",
+        "nResult": "Overvalued",
+        "nValue": -20.970823667824657,
+        "sResult": "Undervalued",
+        "sValue": 386.0480241437852
+    },
+    "QCOM" : {
+        "name": "QCOM",
+        "nResult": "Overvalued",
+        "nValue": -3.824173184201052,
+        "sResult": "Undervalued",
+        "sValue": 390.11275616013876
+    },
+    "AMD" : {
+        "name": "AMD",
+        "nResult": "Overvalued",
+        "nValue": -0.0,
+        "sResult": "Undervalued",
+        "sValue": 160.70465099864816
+    },
+    "INTU" : {
+        "name": "INTU",
+        "nResult": "Overvalued",
+        "nValue": -31.09412297487983,
+        "sResult": "Overvalued",
+        "sValue": 375.787152125384
+    },
+    "SAP" : {
+        "name": "SAP",
+        "nResult": "Overvalued",
+        "nValue": 58.74321746253034,
+        "sResult": "Undervalued",
+        "sValue": 270.65002350285937
+    },
+    "IBM" : {
+        "name": "IBM",
+        "nResult": "Overvalued",
+        "nValue": 32.433909157036716,
+        "sResult": "Undervalued",
+        "sValue": 261.8762028937532
+    },
+    "SONY" : {
+        "name": "SONY",
+        "nResult": "Overvalued",
+        "nValue": -9.783532643141777,
+        "sResult": "Undervalued",
+        "sValue": 324.0860657270741
+    },
+    "NOW" : {
+        "name": "NOW",
+        "nResult": "Overvalued",
+        "nValue": 0.0,
+        "sResult": "Overvalued",
+        "sValue": 54.08043230376664
+    },
+    "AMAT" : {
+        "name": "AMAT",
+        "nResult": "Overvalued",
+        "nValue": -2.3984619579541144,
+        "sResult": "Undervalued",
+        "sValue": 317.2454399999999
+    },
+    "INFY" : {
+        "name": "INFY",
+        "nResult": "Overvalued",
+        "nValue": -7.795881239403499,
+        "sResult": "Undervalued",
+        "sValue": 32.71593811070567
+    },
+    "ADI" : {
+        "name": "ADI",
+        "nResult": "Overvalued",
+        "nValue": 21.832226617205098,
+        "sResult": "Undervalued",
+        "sValue": 171.5108193096656
+    },
+    "MU" : {
+        "name": "MU",
+        "nResult": "Overvalued",
+        "nValue": -5.281250974730604,
+        "sResult": "Undervalued",
+        "sValue": 320.26918296496035
+    },
+    "SHOP" : {
+        "name": "SHOP",
+        "nResult": "Overvalued",
+        "nValue": -0.0,
+        "sResult": "Undervalued",
+        "sValue": 1338.1313994283769
+    }
+}   

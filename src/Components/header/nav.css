@@ -1,0 +1,23 @@
+.navigation-bar{
+    display: flex;
+    margin: 0;
+    padding: 0 5vh 0 5vh;
+    height: 10vh;
+    align-items: center;
+}
+
+img {
+    margin-top: 6px;
+    max-height: 10vh;
+}
+
+.navItem:nth-child(1){
+    flex-grow: 1;
+}
+
+#introduction{
+    background-color: #0e0e54;
+    color: white;
+    padding: 1vh;
+    border-radius: 4px;
+}

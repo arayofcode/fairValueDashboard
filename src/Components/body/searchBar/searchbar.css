@@ -1,0 +1,15 @@
+.searchForm {
+  padding: 10vh;
+  padding-left: 25vh;
+  background-color: #082041;
+}
+
+#searchBox {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 2vh;
+  width: 80%;
+  font-size: 2ch;
+  border-radius: 8px;
+  outline: none;
+}
